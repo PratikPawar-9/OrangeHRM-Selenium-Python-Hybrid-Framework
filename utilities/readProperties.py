@@ -18,3 +18,8 @@ class ReadConfig:
     def getPassword():
         password = config.get('common info','password')
         return password
+
+    @staticmethod
+    def setUser():
+        user = config.get('common info','user')
+        return user

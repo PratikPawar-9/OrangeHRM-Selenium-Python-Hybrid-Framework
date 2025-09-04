@@ -49,7 +49,7 @@ class Test_001_Login:
         else:
             self.driver.save_screenshot(".\\Screenshots\\" + "test_login.png")
             self.driver.close()
-            self.logger.info("******* Login Test Failed *******")
+            self.logger.error("******* Login Test Failed *******")
             assert False
 
 
