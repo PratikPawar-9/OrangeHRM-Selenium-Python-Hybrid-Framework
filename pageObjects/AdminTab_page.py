@@ -9,11 +9,14 @@ class AdminTab_page:
     lnk_admin_xpath = "(//span[@class='oxd-text oxd-text--span oxd-main-menu-item--name'])[1]"
     txtbox_username_xpath = "(//input[@class='oxd-input oxd-input--active'])[2]"
     btn_search_xpath = "//button[@type='submit']"
+
     btn_userRollDown_xpath = "(//div[@class='oxd-select-text--after'])[1]"
     select_userRole_xapth = "//div[@role='option']"
 
     tableRows_xpath = "//div[@class='oxd-table-row oxd-table-row--with-border']"
     tableColumns_xpath = "//div[@class='oxd-table-cell oxd-padding-cell']"
+
+    btn_add_xpath = "//i[@class='oxd-icon bi-plus oxd-button-icon']"
 
 
     def __init__(self, driver):
@@ -67,7 +70,8 @@ class AdminTab_page:
         return flag
 
 
-
+    def clickAdd(self):
+        self.driver.find_element(By.XPATH, self.btn_add_xpath).click()
 
 
 
