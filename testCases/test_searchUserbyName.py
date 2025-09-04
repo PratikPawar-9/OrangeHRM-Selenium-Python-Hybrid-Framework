@@ -15,7 +15,7 @@ class Test_002_searchUserbyName:
 
     @pytest.mark.regression
     def test_searchUserbyName(self,setup):
-        self.logger.info("***** Test_002_searchUserbyName *****")
+        self.logger.info("***** Test_002_search_User_by_Name *****")
         self.logger.info("***** Verifying User by Username *****")
         self.driver = setup
         self.driver.get(self.baseURL)

@@ -140,3 +140,114 @@
 09/04/2025 04:19:24 PM:INFO:***** Login Successful *****
 09/04/2025 04:19:24 PM:INFO:***** Starting Search User by Username
 09/04/2025 04:19:27 PM:INFO:***** Search User by Username Successful *****
+09/04/2025 04:35:59 PM:INFO:***** Test_002_searchUserbyName *****
+09/04/2025 04:35:59 PM:INFO:***** Verifying User by Username *****
+09/04/2025 04:36:03 PM:INFO:***** Login Successful *****
+09/04/2025 04:36:03 PM:INFO:***** Starting Search User by Username
+09/04/2025 04:36:05 PM:INFO:***** Search User by Username Successful *****
+09/04/2025 06:47:01 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 06:47:01 PM:INFO:**** Verifying User by Role *****
+09/04/2025 06:47:37 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 06:47:37 PM:INFO:**** Verifying User by Role *****
+09/04/2025 06:47:40 PM:INFO:***** Login Successful *****
+09/04/2025 06:47:40 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:02:15 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:02:15 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:02:19 PM:INFO:***** Login Successful *****
+09/04/2025 07:02:19 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:04:43 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:04:43 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:04:46 PM:INFO:***** Login Successful *****
+09/04/2025 07:04:46 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:05:16 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:05:16 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:05:19 PM:INFO:***** Login Successful *****
+09/04/2025 07:05:19 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:05:36 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:05:36 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:05:40 PM:INFO:***** Login Successful *****
+09/04/2025 07:05:40 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:15:12 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:15:12 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:15:16 PM:INFO:***** Login Successful *****
+09/04/2025 07:15:16 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:15:27 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:15:27 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:15:30 PM:INFO:***** Login Successful *****
+09/04/2025 07:15:30 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:20:06 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:20:06 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:20:10 PM:INFO:***** Login Successful *****
+09/04/2025 07:20:10 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:21:08 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:21:08 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:21:12 PM:INFO:***** Login Successful *****
+09/04/2025 07:21:12 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:21:45 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:21:45 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:21:48 PM:INFO:***** Login Successful *****
+09/04/2025 07:21:48 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:22:11 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:22:11 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:22:14 PM:INFO:***** Login Successful *****
+09/04/2025 07:22:14 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:25:44 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:25:44 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:25:48 PM:INFO:***** Login Successful *****
+09/04/2025 07:25:48 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:37:21 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:37:21 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:37:26 PM:INFO:***** Login Successful *****
+09/04/2025 07:37:26 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:40:22 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:40:22 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:40:26 PM:INFO:***** Login Successful *****
+09/04/2025 07:40:26 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:42:23 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:42:23 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:42:26 PM:INFO:***** Login Successful *****
+09/04/2025 07:42:26 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:48:55 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:48:55 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:48:59 PM:INFO:***** Login Successful *****
+09/04/2025 07:48:59 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:49:44 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:49:44 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:49:48 PM:INFO:***** Login Successful *****
+09/04/2025 07:49:48 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:49:51 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/04/2025 07:50:13 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:50:13 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:50:16 PM:INFO:***** Login Successful *****
+09/04/2025 07:50:16 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:50:20 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/04/2025 07:52:37 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:52:37 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:52:40 PM:INFO:***** Login Successful *****
+09/04/2025 07:52:40 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:52:44 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/04/2025 07:53:21 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:53:21 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:53:25 PM:INFO:***** Login Successful *****
+09/04/2025 07:53:25 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:53:34 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/04/2025 07:54:50 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:54:50 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:54:54 PM:INFO:***** Login Successful *****
+09/04/2025 07:54:54 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:55:03 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/04/2025 07:58:38 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:58:38 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:58:42 PM:INFO:***** Login Successful *****
+09/04/2025 07:58:42 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:58:50 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/04/2025 07:59:01 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:59:01 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:59:04 PM:INFO:***** Login Successful *****
+09/04/2025 07:59:04 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:59:13 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/04/2025 07:59:25 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/04/2025 07:59:25 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:59:28 PM:INFO:***** Login Successful *****
+09/04/2025 07:59:28 PM:INFO:**** Verifying User by Role *****
+09/04/2025 07:59:31 PM:INFO:**** Test_003_Search_User_by_Role Completed *****

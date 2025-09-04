@@ -23,3 +23,8 @@ class ReadConfig:
     def setUser():
         user = config.get('common info','user')
         return user
+
+    @staticmethod
+    def setRole():
+        role = config.get('common info', 'role')
+        return role
