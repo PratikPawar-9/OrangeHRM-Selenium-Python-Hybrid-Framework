@@ -64,6 +64,7 @@ class Test_004_addNewUser:
             self.logger.info("***** Search User by Username Failed *****")
             assert True == False
         self.addusertab.deleteUser()
+        self.driver.quit()
 
 
 

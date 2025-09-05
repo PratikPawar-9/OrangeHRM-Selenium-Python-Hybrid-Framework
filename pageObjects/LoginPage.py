@@ -28,3 +28,15 @@ class LoginPage:
     def clickLogout(self):
         self.driver.find_element(By.XPATH,self.lnk_Logout_xpath).click()
 
+    def isInvalidLoginMessage(self):
+        try:
+            return self.driver.find_element(By.XPATH, "//p[contains(text(),'Invalid credentials')]").is_displayed()
+        except:
+            return False
+
+    def isDashboardVisible(self):
+        try:
+            return self.driver.find_element(By.XPATH, "//h6[text()='Dashboard']").is_displayed()
+        except:
+            return False
+

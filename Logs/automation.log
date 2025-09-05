@@ -496,3 +496,167 @@
 09/05/2025 01:43:00 AM:INFO:***** Adding New User *****
 09/05/2025 01:43:08 AM:INFO:****** New User Saved Successfully *****
 09/05/2025 01:43:15 AM:INFO:***** Search User by Username Successful *****
+09/05/2025 10:32:43 AM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 10:32:43 AM:INFO:******** Verifying Home Page Title ********
+09/05/2025 10:32:46 AM:INFO:******* Home Page Title Passed *******
+09/05/2025 10:32:48 AM:INFO:******** Test_001_Login.test_login *******
+09/05/2025 10:32:48 AM:INFO:******** Verifying Login Test *******
+09/05/2025 10:32:55 AM:INFO:******* Login Test Passed *******
+09/05/2025 10:32:56 AM:INFO:***** Test_004_addNewUser *****
+09/05/2025 10:32:56 AM:INFO:****** Adding New User ******
+09/05/2025 10:33:00 AM:INFO:***** Login Successful *****
+09/05/2025 10:33:04 AM:INFO:***** Adding New User *****
+09/05/2025 10:33:11 AM:INFO:****** New User Saved Successfully *****
+09/05/2025 10:33:18 AM:INFO:***** Search User by Username Successful *****
+09/05/2025 10:33:22 AM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 10:33:22 AM:INFO:***** Verifying User by Username *****
+09/05/2025 10:33:26 AM:INFO:***** Login Successful *****
+09/05/2025 10:33:26 AM:INFO:***** Starting Search User by Username
+09/05/2025 10:33:29 AM:INFO:***** Search User by Username Successful *****
+09/05/2025 10:33:31 AM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 10:33:31 AM:INFO:**** Verifying User by Role *****
+09/05/2025 10:33:35 AM:INFO:***** Login Successful *****
+09/05/2025 10:33:35 AM:INFO:**** Verifying User by Role *****
+09/05/2025 10:33:39 AM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 10:34:11 AM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 10:34:11 AM:INFO:******** Verifying Home Page Title ********
+09/05/2025 10:34:13 AM:INFO:******* Home Page Title Passed *******
+09/05/2025 10:34:15 AM:INFO:******** Test_001_Login.test_login *******
+09/05/2025 10:34:15 AM:INFO:******** Verifying Login Test *******
+09/05/2025 10:34:19 AM:INFO:******* Login Test Passed *******
+09/05/2025 10:34:21 AM:INFO:***** Test_004_addNewUser *****
+09/05/2025 10:34:21 AM:INFO:****** Adding New User ******
+09/05/2025 10:34:24 AM:INFO:***** Login Successful *****
+09/05/2025 10:34:28 AM:INFO:***** Adding New User *****
+09/05/2025 10:34:35 AM:INFO:****** New User Saved Successfully *****
+09/05/2025 10:34:43 AM:INFO:***** Search User by Username Successful *****
+09/05/2025 10:34:49 AM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 10:34:49 AM:INFO:***** Verifying User by Username *****
+09/05/2025 10:34:53 AM:INFO:***** Login Successful *****
+09/05/2025 10:34:53 AM:INFO:***** Starting Search User by Username
+09/05/2025 10:34:55 AM:INFO:***** Search User by Username Successful *****
+09/05/2025 10:34:57 AM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 10:34:57 AM:INFO:**** Verifying User by Role *****
+09/05/2025 10:35:02 AM:INFO:***** Login Successful *****
+09/05/2025 10:35:02 AM:INFO:**** Verifying User by Role *****
+09/05/2025 10:35:04 AM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 03:47:52 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 03:47:52 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:02:22 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:02:22 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:02:59 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:02:59 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:03:03 PM:INFO:***** PASSED *****
+09/05/2025 04:03:16 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:03:16 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:03:22 PM:INFO:***** PASSED *****
+09/05/2025 04:14:52 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:14:52 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:14:59 PM:INFO:***** PASSED *****
+09/05/2025 04:16:04 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:16:04 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:16:10 PM:INFO:***** PASSED *****
+09/05/2025 04:17:01 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:17:01 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:17:07 PM:INFO:***** PASSED *****
+09/05/2025 04:18:45 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:18:45 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:18:55 PM:INFO:***** PASSED *****
+09/05/2025 04:20:22 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:20:22 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:20:29 PM:INFO:***** PASSED *****
+09/05/2025 04:22:07 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:22:07 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:22:14 PM:INFO:***** PASSED *****
+09/05/2025 04:22:45 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:22:45 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:22:52 PM:INFO:***** PASSED *****
+09/05/2025 04:27:28 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:27:28 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:27:31 PM:INFO:***** PASSED *****
+09/05/2025 04:27:56 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:27:56 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:28:00 PM:INFO:***** PASSED *****
+09/05/2025 04:28:04 PM:INFO:***** FAILED *****
+09/05/2025 04:30:32 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:30:32 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:30:37 PM:INFO:***** PASSED *****
+09/05/2025 04:30:41 PM:INFO:***** FAILED *****
+09/05/2025 04:30:42 PM:INFO:***** FAILED *****
+09/05/2025 04:30:43 PM:INFO:***** FAILED *****
+09/05/2025 04:30:43 PM:INFO:***** Login DDT Test is Failed *****
+09/05/2025 04:32:23 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:32:23 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:32:28 PM:INFO:***** PASSED *****
+09/05/2025 04:32:32 PM:INFO:***** FAILED *****
+09/05/2025 04:32:33 PM:INFO:***** FAILED *****
+09/05/2025 04:32:34 PM:INFO:***** FAILED *****
+09/05/2025 04:32:34 PM:INFO:***** Login DDT Test is Failed *****
+09/05/2025 04:32:55 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:32:55 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:33:00 PM:INFO:***** PASSED *****
+09/05/2025 04:33:03 PM:INFO:***** FAILED *****
+09/05/2025 04:33:05 PM:INFO:***** FAILED *****
+09/05/2025 04:33:06 PM:INFO:***** FAILED *****
+09/05/2025 04:33:06 PM:INFO:***** Login DDT Test is Failed *****
+09/05/2025 04:33:35 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:33:35 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:33:40 PM:INFO:***** PASSED *****
+09/05/2025 04:33:44 PM:INFO:***** FAILED *****
+09/05/2025 04:33:45 PM:INFO:***** FAILED *****
+09/05/2025 04:33:47 PM:INFO:***** FAILED *****
+09/05/2025 04:33:47 PM:INFO:***** Login DDT Test is Failed *****
+09/05/2025 04:38:01 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:38:01 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:38:06 PM:INFO:***** PASSED *****
+09/05/2025 04:38:10 PM:INFO:***** FAILED *****
+09/05/2025 04:38:11 PM:INFO:***** FAILED *****
+09/05/2025 04:38:12 PM:INFO:***** FAILED *****
+09/05/2025 04:38:12 PM:INFO:***** Login DDT Test is Failed *****
+09/05/2025 04:38:41 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:38:41 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:38:46 PM:INFO:***** PASSED *****
+09/05/2025 04:38:51 PM:INFO:***** FAILED *****
+09/05/2025 04:38:52 PM:INFO:***** FAILED *****
+09/05/2025 04:38:53 PM:INFO:***** FAILED *****
+09/05/2025 04:38:53 PM:INFO:***** Login DDT Test is Failed *****
+09/05/2025 04:41:51 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:41:51 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:41:56 PM:INFO:***** PASSED *****
+09/05/2025 04:41:59 PM:INFO:***** FAILED *****
+09/05/2025 04:42:00 PM:INFO:***** FAILED *****
+09/05/2025 04:42:02 PM:INFO:***** FAILED *****
+09/05/2025 04:42:02 PM:INFO:***** Login DDT Test is Failed *****
+09/05/2025 04:42:02 PM:INFO:Final lst_status list: ['Pass', 'Fail', 'Fail', 'Fail']
+09/05/2025 04:44:48 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:44:48 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:44:53 PM:INFO:***** PASSED *****
+09/05/2025 04:44:56 PM:INFO:***** FAILED *****
+09/05/2025 04:48:17 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:48:17 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:48:22 PM:INFO:***** PASSED *****
+09/05/2025 04:55:03 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:55:03 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:55:44 PM:INFO:***** Login DDT Test is Passed *****
+09/05/2025 04:55:44 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 04:55:44 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 04:58:00 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:58:00 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:58:41 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 04:58:41 PM:INFO:Final Results: ['Pass']
+09/05/2025 04:58:43 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 04:58:43 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 04:59:00 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 04:59:00 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 04:59:23 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 04:59:23 PM:INFO:Final Results: ['Pass']
+09/05/2025 04:59:25 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 04:59:25 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 05:00:09 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 05:00:09 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 05:00:34 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 05:00:34 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 05:00:51 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 05:00:51 PM:INFO:Final Results: ['Pass']
+09/05/2025 05:00:53 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 05:00:53 PM:INFO:***** Completed DDT Login Test 005 *****
