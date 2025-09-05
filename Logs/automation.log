@@ -660,3 +660,383 @@
 09/05/2025 05:00:51 PM:INFO:Final Results: ['Pass']
 09/05/2025 05:00:53 PM:INFO:***** End of DDT Login Test *****
 09/05/2025 05:00:53 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 05:28:46 PM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 05:28:46 PM:INFO:******** Verifying Home Page Title ********
+09/05/2025 05:28:49 PM:INFO:******* Home Page Title Passed *******
+09/05/2025 05:28:51 PM:INFO:******** Test_001_Login.test_login *******
+09/05/2025 05:28:51 PM:INFO:******** Verifying Login Test *******
+09/05/2025 05:28:56 PM:INFO:******* Login Test Passed *******
+09/05/2025 05:28:57 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 05:28:57 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 05:29:14 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 05:29:14 PM:INFO:Final Results: ['Pass']
+09/05/2025 05:29:17 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 05:29:17 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 05:29:18 PM:INFO:***** Test_004_addNewUser *****
+09/05/2025 05:29:18 PM:INFO:****** Adding New User ******
+09/05/2025 05:29:22 PM:INFO:***** Login Successful *****
+09/05/2025 05:29:26 PM:INFO:***** Adding New User *****
+09/05/2025 05:29:33 PM:INFO:****** New User Saved Successfully *****
+09/05/2025 05:29:40 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 05:29:47 PM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 05:29:47 PM:INFO:***** Verifying User by Username *****
+09/05/2025 05:29:50 PM:INFO:***** Login Successful *****
+09/05/2025 05:29:50 PM:INFO:***** Starting Search User by Username
+09/05/2025 05:29:54 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 05:29:55 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 05:29:55 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:29:59 PM:INFO:***** Login Successful *****
+09/05/2025 05:29:59 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:32:40 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 05:32:40 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:32:43 PM:INFO:***** Login Successful *****
+09/05/2025 05:32:43 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:32:47 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 05:33:06 PM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 05:33:06 PM:INFO:******** Verifying Home Page Title ********
+09/05/2025 05:33:09 PM:INFO:******* Home Page Title Passed *******
+09/05/2025 05:33:11 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 05:33:11 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 05:33:27 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 05:33:27 PM:INFO:Final Results: ['Pass']
+09/05/2025 05:33:29 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 05:33:29 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 05:33:31 PM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 05:33:31 PM:INFO:***** Verifying User by Username *****
+09/05/2025 05:33:35 PM:INFO:***** Login Successful *****
+09/05/2025 05:33:35 PM:INFO:***** Starting Search User by Username
+09/05/2025 05:33:38 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 05:34:25 PM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 05:34:25 PM:INFO:******** Verifying Home Page Title ********
+09/05/2025 05:34:28 PM:INFO:******* Home Page Title Passed *******
+09/05/2025 05:34:29 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 05:34:29 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 05:34:45 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 05:34:45 PM:INFO:Final Results: ['Pass']
+09/05/2025 05:34:47 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 05:34:47 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 05:34:49 PM:INFO:***** Test_004_addNewUser *****
+09/05/2025 05:34:49 PM:INFO:****** Adding New User ******
+09/05/2025 05:34:53 PM:INFO:***** Login Successful *****
+09/05/2025 05:34:56 PM:INFO:***** Adding New User *****
+09/05/2025 05:35:03 PM:INFO:****** New User Saved Successfully *****
+09/05/2025 05:35:10 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 05:35:17 PM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 05:35:17 PM:INFO:***** Verifying User by Username *****
+09/05/2025 05:35:20 PM:INFO:***** Login Successful *****
+09/05/2025 05:35:20 PM:INFO:***** Starting Search User by Username
+09/05/2025 05:35:23 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 05:36:29 PM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 05:36:29 PM:INFO:******** Verifying Home Page Title ********
+09/05/2025 05:36:33 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 05:36:33 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 05:36:37 PM:INFO:***** Test_004_addNewUser *****
+09/05/2025 05:36:37 PM:INFO:****** Adding New User ******
+09/05/2025 05:36:40 PM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 05:36:40 PM:INFO:***** Verifying User by Username *****
+09/05/2025 05:38:47 PM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 05:38:47 PM:INFO:******** Verifying Home Page Title ********
+09/05/2025 05:38:50 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 05:38:50 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 05:38:54 PM:INFO:***** Test_004_addNewUser *****
+09/05/2025 05:38:54 PM:INFO:****** Adding New User ******
+09/05/2025 05:38:57 PM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 05:38:57 PM:INFO:***** Verifying User by Username *****
+09/05/2025 05:40:05 PM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 05:40:05 PM:INFO:******** Verifying Home Page Title ********
+09/05/2025 05:40:08 PM:INFO:******* Home Page Title Passed *******
+09/05/2025 05:40:10 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 05:40:10 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 05:40:26 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 05:40:26 PM:INFO:Final Results: ['Pass']
+09/05/2025 05:40:28 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 05:40:28 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 05:40:30 PM:INFO:***** Test_004_addNewUser *****
+09/05/2025 05:40:30 PM:INFO:****** Adding New User ******
+09/05/2025 05:40:33 PM:INFO:***** Login Successful *****
+09/05/2025 05:40:36 PM:INFO:***** Adding New User *****
+09/05/2025 05:40:44 PM:INFO:****** New User Saved Successfully *****
+09/05/2025 05:40:51 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 05:40:57 PM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 05:40:57 PM:INFO:***** Verifying User by Username *****
+09/05/2025 05:41:00 PM:INFO:***** Login Successful *****
+09/05/2025 05:41:00 PM:INFO:***** Starting Search User by Username
+09/05/2025 05:41:04 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 05:42:14 PM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 05:42:14 PM:INFO:******** Verifying Home Page Title ********
+09/05/2025 05:42:17 PM:INFO:******* Home Page Title Passed *******
+09/05/2025 05:42:18 PM:INFO:******** Test_001_Login.test_login *******
+09/05/2025 05:42:18 PM:INFO:******** Verifying Login Test *******
+09/05/2025 05:42:22 PM:INFO:******* Login Test Passed *******
+09/05/2025 05:42:24 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 05:42:24 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 05:42:40 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 05:42:40 PM:INFO:Final Results: ['Pass']
+09/05/2025 05:42:43 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 05:42:43 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 05:42:45 PM:INFO:***** Test_004_addNewUser *****
+09/05/2025 05:42:45 PM:INFO:****** Adding New User ******
+09/05/2025 05:42:48 PM:INFO:***** Login Successful *****
+09/05/2025 05:42:51 PM:INFO:***** Adding New User *****
+09/05/2025 05:42:58 PM:INFO:****** New User Saved Successfully *****
+09/05/2025 05:43:06 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 05:43:12 PM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 05:43:12 PM:INFO:***** Verifying User by Username *****
+09/05/2025 05:43:15 PM:INFO:***** Login Successful *****
+09/05/2025 05:43:15 PM:INFO:***** Starting Search User by Username
+09/05/2025 05:43:18 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 05:43:20 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 05:43:20 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:43:23 PM:INFO:***** Login Successful *****
+09/05/2025 05:43:23 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:44:34 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 05:44:34 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:44:37 PM:INFO:***** Login Successful *****
+09/05/2025 05:44:37 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:44:40 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 05:47:16 PM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 05:47:16 PM:INFO:******** Verifying Home Page Title ********
+09/05/2025 05:47:19 PM:INFO:******* Home Page Title Passed *******
+09/05/2025 05:47:20 PM:INFO:******** Test_001_Login.test_login *******
+09/05/2025 05:47:20 PM:INFO:******** Verifying Login Test *******
+09/05/2025 05:47:25 PM:INFO:******* Login Test Passed *******
+09/05/2025 05:47:26 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 05:47:26 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 05:47:43 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 05:47:43 PM:INFO:Final Results: ['Pass']
+09/05/2025 05:47:45 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 05:47:45 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 05:47:47 PM:INFO:***** Test_004_addNewUser *****
+09/05/2025 05:47:47 PM:INFO:****** Adding New User ******
+09/05/2025 05:47:50 PM:INFO:***** Login Successful *****
+09/05/2025 05:47:54 PM:INFO:***** Adding New User *****
+09/05/2025 05:48:01 PM:INFO:****** New User Saved Successfully *****
+09/05/2025 05:48:08 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 05:48:14 PM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 05:48:14 PM:INFO:***** Verifying User by Username *****
+09/05/2025 05:48:18 PM:INFO:***** Login Successful *****
+09/05/2025 05:48:18 PM:INFO:***** Starting Search User by Username
+09/05/2025 05:48:21 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 05:48:22 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 05:48:22 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:48:26 PM:INFO:***** Login Successful *****
+09/05/2025 05:48:26 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:48:29 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 05:49:32 PM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 05:49:32 PM:INFO:******** Verifying Home Page Title ********
+09/05/2025 05:49:36 PM:INFO:******* Home Page Title Passed *******
+09/05/2025 05:49:43 PM:INFO:******** Test_001_Login.test_login *******
+09/05/2025 05:49:43 PM:INFO:******** Verifying Login Test *******
+09/05/2025 05:49:49 PM:INFO:******* Login Test Passed *******
+09/05/2025 05:49:56 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 05:49:56 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 05:50:12 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 05:50:12 PM:INFO:Final Results: ['Pass']
+09/05/2025 05:50:15 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 05:50:15 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 05:50:22 PM:INFO:***** Test_004_addNewUser *****
+09/05/2025 05:50:22 PM:INFO:****** Adding New User ******
+09/05/2025 05:50:27 PM:INFO:***** Login Successful *****
+09/05/2025 05:50:30 PM:INFO:***** Adding New User *****
+09/05/2025 05:50:37 PM:INFO:****** New User Saved Successfully *****
+09/05/2025 05:50:44 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 05:50:57 PM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 05:50:57 PM:INFO:***** Verifying User by Username *****
+09/05/2025 05:51:01 PM:INFO:***** Login Successful *****
+09/05/2025 05:51:01 PM:INFO:***** Starting Search User by Username
+09/05/2025 05:51:04 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 05:51:11 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 05:51:11 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:51:16 PM:INFO:***** Login Successful *****
+09/05/2025 05:51:16 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:52:56 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 05:52:56 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:53:01 PM:INFO:***** Login Successful *****
+09/05/2025 05:53:01 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:55:42 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 05:55:42 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:55:46 PM:INFO:***** Login Successful *****
+09/05/2025 05:55:46 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:58:32 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 05:58:32 PM:INFO:**** Verifying User by Role *****
+09/05/2025 05:58:35 PM:INFO:***** Login Successful *****
+09/05/2025 05:58:35 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:02:03 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:02:03 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:02:06 PM:INFO:***** Login Successful *****
+09/05/2025 06:02:06 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:03:54 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:03:54 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:03:57 PM:INFO:***** Login Successful *****
+09/05/2025 06:03:57 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:04:00 PM:INFO:role: Admin
+09/05/2025 06:04:00 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 06:04:37 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:04:37 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:04:40 PM:INFO:***** Login Successful *****
+09/05/2025 06:04:40 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:04:44 PM:INFO:role: Admin
+09/05/2025 06:05:26 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:05:26 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:05:30 PM:INFO:***** Login Successful *****
+09/05/2025 06:05:30 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:05:34 PM:INFO:role: Admin
+09/05/2025 06:06:51 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:06:51 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:06:55 PM:INFO:***** Login Successful *****
+09/05/2025 06:06:55 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:06:59 PM:INFO:role: Admin
+09/05/2025 06:06:59 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 06:07:19 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:07:19 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:07:24 PM:INFO:***** Login Successful *****
+09/05/2025 06:07:24 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:07:28 PM:INFO:role: Admin
+09/05/2025 06:07:28 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 06:07:47 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:07:47 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:07:52 PM:INFO:***** Login Successful *****
+09/05/2025 06:07:52 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:07:56 PM:INFO:role: Admin
+09/05/2025 06:07:56 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 06:08:16 PM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 06:08:16 PM:INFO:******** Verifying Home Page Title ********
+09/05/2025 06:08:20 PM:INFO:******* Home Page Title Passed *******
+09/05/2025 06:08:26 PM:INFO:******** Test_001_Login.test_login *******
+09/05/2025 06:08:26 PM:INFO:******** Verifying Login Test *******
+09/05/2025 06:08:32 PM:INFO:******* Login Test Passed *******
+09/05/2025 06:08:39 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 06:08:39 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 06:08:57 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 06:08:57 PM:INFO:Final Results: ['Pass']
+09/05/2025 06:08:59 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 06:08:59 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 06:09:07 PM:INFO:***** Test_004_addNewUser *****
+09/05/2025 06:09:07 PM:INFO:****** Adding New User ******
+09/05/2025 06:09:12 PM:INFO:***** Login Successful *****
+09/05/2025 06:09:14 PM:INFO:***** Adding New User *****
+09/05/2025 06:09:21 PM:INFO:****** New User Saved Successfully *****
+09/05/2025 06:09:29 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 06:09:41 PM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 06:09:41 PM:INFO:***** Verifying User by Username *****
+09/05/2025 06:09:46 PM:INFO:***** Login Successful *****
+09/05/2025 06:09:46 PM:INFO:***** Starting Search User by Username
+09/05/2025 06:09:48 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 06:09:55 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:09:55 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:10:00 PM:INFO:***** Login Successful *****
+09/05/2025 06:10:00 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:10:04 PM:INFO:role: Admin
+09/05/2025 06:10:04 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 06:11:00 PM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 06:11:00 PM:INFO:******** Verifying Home Page Title ********
+09/05/2025 06:11:02 PM:INFO:******* Home Page Title Passed *******
+09/05/2025 06:11:04 PM:INFO:******** Test_001_Login.test_login *******
+09/05/2025 06:11:04 PM:INFO:******** Verifying Login Test *******
+09/05/2025 06:11:08 PM:INFO:******* Login Test Passed *******
+09/05/2025 06:11:10 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 06:11:10 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 06:11:27 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 06:11:27 PM:INFO:Final Results: ['Pass']
+09/05/2025 06:11:29 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 06:11:29 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 06:11:31 PM:INFO:***** Test_004_addNewUser *****
+09/05/2025 06:11:31 PM:INFO:****** Adding New User ******
+09/05/2025 06:11:34 PM:INFO:***** Login Successful *****
+09/05/2025 06:11:37 PM:INFO:***** Adding New User *****
+09/05/2025 06:11:44 PM:INFO:****** New User Saved Successfully *****
+09/05/2025 06:11:52 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 06:11:58 PM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 06:11:58 PM:INFO:***** Verifying User by Username *****
+09/05/2025 06:12:01 PM:INFO:***** Login Successful *****
+09/05/2025 06:12:01 PM:INFO:***** Starting Search User by Username
+09/05/2025 06:12:04 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 06:12:06 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:12:06 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:12:09 PM:INFO:***** Login Successful *****
+09/05/2025 06:12:09 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:12:16 PM:INFO:role: Admin
+09/05/2025 06:14:00 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:14:00 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:14:03 PM:INFO:***** Login Successful *****
+09/05/2025 06:14:03 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:14:10 PM:INFO:role: Admin
+09/05/2025 06:15:58 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:15:58 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:16:01 PM:INFO:***** Login Successful *****
+09/05/2025 06:16:01 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:16:05 PM:INFO:user_role: 
+09/05/2025 06:16:05 PM:INFO:user_role: 
+09/05/2025 06:16:08 PM:INFO:role: Admin
+09/05/2025 06:16:47 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:16:47 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:16:51 PM:INFO:***** Login Successful *****
+09/05/2025 06:16:51 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:16:56 PM:INFO:user_role: 
+09/05/2025 06:16:57 PM:INFO:user_role: 
+09/05/2025 06:16:59 PM:INFO:role: Admin
+09/05/2025 06:18:23 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:18:23 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:18:28 PM:INFO:***** Login Successful *****
+09/05/2025 06:18:28 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:18:32 PM:INFO:user_role: 
+09/05/2025 06:18:33 PM:INFO:user_role: 
+09/05/2025 06:18:36 PM:INFO:role: Admin
+09/05/2025 06:19:35 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:19:35 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:19:41 PM:INFO:***** Login Successful *****
+09/05/2025 06:19:41 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:19:45 PM:INFO:user_role: Admin
+09/05/2025 06:19:48 PM:INFO:role: Admin
+09/05/2025 06:19:48 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 06:20:04 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:20:04 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:20:07 PM:INFO:***** Login Successful *****
+09/05/2025 06:20:07 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:20:12 PM:INFO:user_role: Admin
+09/05/2025 06:20:14 PM:INFO:role: Admin
+09/05/2025 06:20:14 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 06:20:35 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:20:35 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:20:38 PM:INFO:***** Login Successful *****
+09/05/2025 06:20:38 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:20:42 PM:INFO:user_role: Admin
+09/05/2025 06:20:44 PM:INFO:role: Admin
+09/05/2025 06:20:44 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 06:21:50 PM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 06:21:50 PM:INFO:******** Verifying Home Page Title ********
+09/05/2025 06:21:53 PM:INFO:******* Home Page Title Passed *******
+09/05/2025 06:21:54 PM:INFO:******** Test_001_Login.test_login *******
+09/05/2025 06:21:54 PM:INFO:******** Verifying Login Test *******
+09/05/2025 06:21:59 PM:INFO:******* Login Test Passed *******
+09/05/2025 06:22:00 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 06:22:00 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 06:22:18 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 06:22:18 PM:INFO:Final Results: ['Pass']
+09/05/2025 06:22:20 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 06:22:20 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 06:22:22 PM:INFO:***** Test_004_addNewUser *****
+09/05/2025 06:22:22 PM:INFO:****** Adding New User ******
+09/05/2025 06:22:25 PM:INFO:***** Login Successful *****
+09/05/2025 06:22:28 PM:INFO:***** Adding New User *****
+09/05/2025 06:22:35 PM:INFO:****** New User Saved Successfully *****
+09/05/2025 06:22:42 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 06:22:49 PM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 06:22:49 PM:INFO:***** Verifying User by Username *****
+09/05/2025 06:22:52 PM:INFO:***** Login Successful *****
+09/05/2025 06:22:52 PM:INFO:***** Starting Search User by Username
+09/05/2025 06:22:55 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 06:22:57 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:22:57 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:23:00 PM:INFO:***** Login Successful *****
+09/05/2025 06:23:00 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:23:04 PM:INFO:user_role: Admin
+09/05/2025 06:23:07 PM:INFO:role: Admin
+09/05/2025 06:23:07 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 06:23:39 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:23:39 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:23:42 PM:INFO:***** Login Successful *****
+09/05/2025 06:23:42 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:23:45 PM:INFO:user_role: Admin
+09/05/2025 06:23:48 PM:INFO:role: Admin
+09/05/2025 06:23:48 PM:INFO:**** Test_003_Search_User_by_Role Completed *****

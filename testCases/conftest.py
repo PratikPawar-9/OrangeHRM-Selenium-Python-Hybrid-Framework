@@ -1,14 +1,16 @@
 from selenium import webdriver
 import pytest
 
-@pytest.fixture()
+@pytest.fixture(scope="function")
 def setup(browser):
     if browser == 'chrome':
         driver = webdriver.Chrome()
+        return driver
         print("Launching the Chromer Browser.....")
 
     elif browser == 'firefox':
         driver = webdriver.Firefox()
+        return driver
         print("Launching the Firefox Browser.....")
 
     else:

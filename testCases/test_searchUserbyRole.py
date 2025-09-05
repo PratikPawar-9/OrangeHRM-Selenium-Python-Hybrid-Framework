@@ -1,3 +1,5 @@
+import time
+
 from pageObjects.AdminTab_page import AdminTab_page
 from pageObjects.LoginPage import LoginPage
 from utilities.customLogger import LogGen
@@ -31,10 +33,13 @@ class Test_003_SearchUserbyRole:
         self.admintab.clickAdmin()
         self.admintab.clickUserRole(self.role)
         self.admintab.clickSearch()
+
         status = self.admintab.searchUserByrole(self.role)
+        self.driver.quit()
+        self.logger.info(f'role: {self.role}')
+
         assert True == status
         self.logger.info("**** Test_003_Search_User_by_Role Completed *****")
-        self.driver.close()
 
 
 

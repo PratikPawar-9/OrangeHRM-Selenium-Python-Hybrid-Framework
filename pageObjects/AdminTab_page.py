@@ -1,5 +1,5 @@
 import time
-
+from utilities.customLogger import LogGen
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -18,7 +18,7 @@ class AdminTab_page:
 
     btn_add_xpath = "//i[@class='oxd-icon bi-plus oxd-button-icon']"
 
-
+    logger = LogGen().loggen()
     def __init__(self, driver):
         self.driver = driver
 
@@ -62,8 +62,8 @@ class AdminTab_page:
         flag = False
         row = self.driver.find_elements(By.XPATH, self.tableRows_xpath)
         for r in range(1 ,len(row)+1):
-            user_role = self.driver.find_element(By.XPATH,f"(//div[@class='oxd-table-row oxd-table-row--with-border']//div[3]//div)[{r}]").text
-            print("user_role_value :",  user_role)
+            user_role = self.driver.find_element(By.XPATH,f"(//div[@class='oxd-table-row oxd-table-row--with-border']//div[3]//div)[3]").text
+            self.logger.info(f'user_role: {user_role}')
             if user_role.strip().lower() == role.strip().lower():
                 flag = True
                 break

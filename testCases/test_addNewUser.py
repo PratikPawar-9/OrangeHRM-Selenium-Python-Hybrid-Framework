@@ -5,6 +5,7 @@ from utilities.customLogger import LogGen
 from utilities.readProperties import ReadConfig
 from selenium.webdriver.common.by import By
 import time
+import pytest
 
 
 class Test_004_addNewUser:
@@ -19,7 +20,7 @@ class Test_004_addNewUser:
     newUserConfirmPwd = ReadConfig.getNewUserConfirmPwd()
     logger = LogGen.loggen()
 
-
+    @pytest.mark.regression
     def test_addNewUser(self,setup):
         self.logger.info("***** Test_004_addNewUser *****")
         self.logger.info("****** Adding New User ******")
