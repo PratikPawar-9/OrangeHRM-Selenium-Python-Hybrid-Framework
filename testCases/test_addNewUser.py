@@ -62,6 +62,7 @@ class Test_004_addNewUser:
 
         else:
             self.logger.info("***** Search User by Username Failed *****")
+            self.driver.save_screenshot(".\\Screenshots\\test_addCustomer.png")
             assert True == False
         self.addusertab.deleteUser()
         self.driver.quit()
