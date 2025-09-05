@@ -1,0 +1,1 @@
+pytest -s -v --html=./Reports/reports.html testCases/ --browser chrome

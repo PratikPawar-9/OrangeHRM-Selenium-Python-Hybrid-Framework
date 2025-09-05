@@ -1040,3 +1040,33 @@
 09/05/2025 06:23:45 PM:INFO:user_role: Admin
 09/05/2025 06:23:48 PM:INFO:role: Admin
 09/05/2025 06:23:48 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
+09/05/2025 06:37:54 PM:INFO:******** Test_001_Login.test_homePageTitle *******
+09/05/2025 06:37:54 PM:INFO:******** Verifying Home Page Title ********
+09/05/2025 06:37:57 PM:INFO:******* Home Page Title Passed *******
+09/05/2025 06:37:58 PM:INFO:******** Test_001_Login.test_login *******
+09/05/2025 06:37:58 PM:INFO:******** Verifying Login Test *******
+09/05/2025 06:38:02 PM:INFO:******* Login Test Passed *******
+09/05/2025 06:38:04 PM:INFO:****** Test_Case_005_Login_ddt *****
+09/05/2025 06:38:04 PM:INFO:****** Verifying login DDT Test *******
+09/05/2025 06:38:20 PM:INFO:***** Login DDT Test Passed *****
+09/05/2025 06:38:20 PM:INFO:Final Results: ['Pass']
+09/05/2025 06:38:22 PM:INFO:***** End of DDT Login Test *****
+09/05/2025 06:38:22 PM:INFO:***** Completed DDT Login Test 005 *****
+09/05/2025 06:38:24 PM:INFO:***** Test_004_addNewUser *****
+09/05/2025 06:38:24 PM:INFO:****** Adding New User ******
+09/05/2025 06:38:27 PM:INFO:***** Login Successful *****
+09/05/2025 06:38:31 PM:INFO:***** Adding New User *****
+09/05/2025 06:38:38 PM:INFO:****** New User Saved Successfully *****
+09/05/2025 06:38:45 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 06:38:51 PM:INFO:***** Test_002_search_User_by_Name *****
+09/05/2025 06:38:51 PM:INFO:***** Verifying User by Username *****
+09/05/2025 06:38:54 PM:INFO:***** Login Successful *****
+09/05/2025 06:38:54 PM:INFO:***** Starting Search User by Username
+09/05/2025 06:38:58 PM:INFO:***** Search User by Username Successful *****
+09/05/2025 06:39:00 PM:INFO:**** Test_003_Search_User_by_Role ****
+09/05/2025 06:39:00 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:39:03 PM:INFO:***** Login Successful *****
+09/05/2025 06:39:03 PM:INFO:**** Verifying User by Role *****
+09/05/2025 06:39:07 PM:INFO:user_role: Admin
+09/05/2025 06:39:09 PM:INFO:role: Admin
+09/05/2025 06:39:09 PM:INFO:**** Test_003_Search_User_by_Role Completed *****
